@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcula Pagos</string>
+    <string name="title_activity_empleado_honorario">EmpleadoHonorarioActivity</string>
+    <string name="title_activity_empleado_regular">EmpleadoRegularActivity</string>
+</resources>
